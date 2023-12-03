@@ -1,0 +1,13 @@
+# Ignorar o arquivo de configuração do WordPress
+wp-config.php
+
+# Ignorar a pasta de uploads do WordPress
+wp-content/uploads/
+
+# Ignorar a pasta de cache do WordPress (pode variar dependendo dos plugins usados)
+wp-content/cache/
+
+# Ignorar diretórios do WordPress core (pode ser útil para impedir a inclusão acidental de arquivos do core)
+wp-includes/
+wp-admin/
+
